@@ -2,6 +2,7 @@
 The repository contains all related files in my portfolio
 
 The data is driven from the Edmunds Kaggle dataset, which contains customer reviews from 50 different car brands.
+This project focuses merely on Toyota review data.
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
