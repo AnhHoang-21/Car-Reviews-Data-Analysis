@@ -9,6 +9,7 @@ This project focuses merely on Toyota review data. The original data has more th
 📌1. Data Cleaning
 
 *🩺 Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.*
+
 🔍 There are empty values in the review column.
 🔍 Parts of reviews in the Review column(it's a minor quantity) were split into a few following rows in the first column
 
