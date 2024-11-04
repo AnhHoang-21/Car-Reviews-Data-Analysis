@@ -12,7 +12,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
    🔍 There are empty values in the review column.
    
-  🔍 Parts of reviews in the Review column(it's a minor quantity) were split into a few following rows in the first column
+  🔍 Parts of reviews in the Review column(it's a minor quantity) were split into a few following rows in the first column; therefore, it leads to more than extra redundant 4000 rows.
 
 *💊 Treatment*
 * Clean the redundant texts appearing in a few rows of the first column by moving them into their belonging text above.
