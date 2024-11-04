@@ -7,6 +7,7 @@ This project focuses merely on Toyota review data. The original data has more th
 📋Pipeline: 
 
 📌1. Data Cleaning
+Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.
 * Clean the redundant texts appearing in a few rows of the first column.
 
 **Key points from 3D Visualizations (Package: Plotly):**
