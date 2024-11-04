@@ -4,9 +4,9 @@ The repository contains all related files in my portfolio
 The data is driven from the Edmunds Kaggle dataset, which contains customer reviews from 50 different car brands.
 This project focuses merely on Toyota review data. The original data has more than 18 thousand rows and six columns. 
 
-📋Pipeline: 
+## 📋Data Pipeline: 
 
-📌1. Data Cleaning
+### 📌1. Data Cleaning
 
 *🩺 Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.*
 
