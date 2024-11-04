@@ -6,7 +6,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
 ## 📋Data Pipeline: 
 
-### 📌1. Data Cleaning
+### 📌1. Data Preprocessing
 
 **🩺 Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.**
 
