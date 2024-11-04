@@ -15,7 +15,7 @@ This project focuses merely on Toyota review data. The original data has more th
   🔍 Parts of reviews in the Review column(it's a minor quantity) were split into a few following rows in the first column
 
 *💊 Treatment*
-* Clean the redundant texts appearing in a few rows of the first column.
+* Clean the redundant texts appearing in a few rows of the first column by moving them into their belonging text above.
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
