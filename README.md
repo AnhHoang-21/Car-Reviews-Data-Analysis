@@ -16,7 +16,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
 **⚕️1.2 Treatment**
 
-**1.Clean the redundant texts appearing in a few rows of the first column by moving them into their belonging text above.**
+** 1. Clean the redundant texts appearing in a few rows of the first column by moving them into their belonging text above.**
   
   💊 Using Excel to delete rows with empty values in a specific column, Ctrl + G -> Special -> Select Blank -> Right-click highlighted cell -> Select delete rows. 
 
@@ -28,7 +28,7 @@ This project focuses merely on Toyota review data. The original data has more th
 ☑️ Load data to Power BI Desktop
   
 **💡Takeaways:**
-* xyz
+* XYZ
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
