@@ -2,9 +2,6 @@
 
 🎯 The aim of this project is to extract insights from YouTube car reviews.
 
-❓ Ratings between 4 and 5 include all compliments and reviews without complaints or not? 
-
-❓ 
 
 The repository contains all related files in my portfolio.
 
