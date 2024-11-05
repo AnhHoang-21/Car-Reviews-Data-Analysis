@@ -1,4 +1,4 @@
-# Toyota Car Reviews Data Analysis
+![image](https://github.com/user-attachments/assets/5e652ae9-6fe0-4c4a-9b63-22415835f720)![image](https://github.com/user-attachments/assets/294d1c3a-54e9-42c8-b891-51b4586d0483)# Toyota Car Reviews Data Analysis
 
 🎯 The aim of this project is to extract insights from YouTube car reviews.
 
@@ -19,6 +19,11 @@ This project focuses merely on Toyota review data. The original data has more th
    🔍 Parts of reviews in the Review column were split into a few following rows in the first column; therefore, it leads to more than extra redundant 4000 rows. Deleting data might be quite risky as some insights won't be discovered or affect other insights and analyses. As I estimate, the time to complete this cleaning task manually is 4 hours (20 seconds for each row; each review error contains 1-5 redundant rows). With in-depth analysis, I will perform full cleaning. I will perform general data analysis for this data, so I opted out of this cleaning task.
 
    🔍 Values in the Review_Date column contain both date and time published reviews. Ex: on 02/02/17 19:53 PM (PST). The date values are in 24-hour format, so I don't keep PM or AM values.
+
+   🔍 In the Vehicle_Title
+![image](https://github.com/user-attachments/assets/7958f002-84d7-41b8-b394-2a00d6f69979)
+The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sedan (3.5L 6cyl 5A). There is valuable information such as year_made, Model, body type, version, number of doors, and engine.
+   
 
 **⚕️1.2 Treatment**
 
