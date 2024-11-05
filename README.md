@@ -1,5 +1,12 @@
 # Toyota Car Reviews Data Analysis
-The repository contains all related files in my portfolio
+
+🎯 The aim of this project is to extract insights from YouTube car reviews.
+
+❓ Ratings between 4 and 5 include all compliments and reviews without complaints or not? 
+
+❓ 
+
+The repository contains all related files in my portfolio.
 
 The data is driven from the Edmunds Kaggle dataset, which contains customer reviews from 50 different car brands.
 This project focuses merely on Toyota review data. The original data has more than 18 thousand rows and six columns. 
