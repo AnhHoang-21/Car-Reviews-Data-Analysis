@@ -10,7 +10,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
 ## 📋Data Pipeline: 
 
-### 📌1. Data Preprocessing
+### 📌1. Data Preprocessing (Roughly 50-60% of workload)
 
 **🩺 1.1 Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.**
 
