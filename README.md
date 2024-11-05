@@ -34,6 +34,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
   💊 Using Excel to delete rows with empty values in a specific column, Ctrl + G -> Special -> Select Blank -> Right-click highlighted cell -> Select delete rows. 
 
 **1.2.2 Make two new columns to separate values in the Review_Date column into date and time**
+
  💊 Use the Excel MID function to extract date and time values.
 
  💊 Change values in the Date column to Date format DD/MM/YY by selecting Data-> Text to column -> Date
