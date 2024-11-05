@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e652ae9-6fe0-4c4a-9b63-22415835f720)![image](https://github.com/user-attachments/assets/294d1c3a-54e9-42c8-b891-51b4586d0483)# Toyota Car Reviews Data Analysis
+# Toyota Car Reviews Data Analysis
 
 🎯 The aim of this project is to extract insights from YouTube car reviews.
 
@@ -20,8 +20,9 @@ This project focuses merely on Toyota review data. The original data has more th
 
    🔍 Values in the Review_Date column contain both date and time published reviews. Ex: on 02/02/17 19:53 PM (PST). The date values are in 24-hour format, so I don't keep PM or AM values.
 
-   🔍 In the Vehicle_Title
-![image](https://github.com/user-attachments/assets/7958f002-84d7-41b8-b394-2a00d6f69979)
+   🔍 In the Vehicle_Title 
+   ![image](https://github.com/user-attachments/assets/b47b3093-a08c-441b-af82-5d8b94634086)
+
 The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sedan (3.5L 6cyl 5A). There is valuable information such as year_made, Model, body type, version, number of doors, and engine.
    
 
