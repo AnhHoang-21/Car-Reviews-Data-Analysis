@@ -25,6 +25,10 @@ This project focuses merely on Toyota review data. The original data has more th
 
 ### 📌2. Data Visualization
 - Load data to Power BI Desktop
+  
+**Takeaways:**
+💡
+💡
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
