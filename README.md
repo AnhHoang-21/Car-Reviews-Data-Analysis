@@ -54,6 +54,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 💊 Use re.search () function to extract engine information that appears inside parentheses ()
 
+-----
 
 ### 📌2. SQL Queries for negative reviews
 -> MySQL is used to run through 10 queries to find insights from negative reviews.
@@ -68,7 +69,7 @@ customers.
 ➢ Each year, each car model has different major issues.
 
 ➢ The more popular a car is, the more likely it is to receive negative reviews.
-----------
+
 ----------
 
 ### 📌3. Data Visualization
