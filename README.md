@@ -44,6 +44,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
  
  ![image](https://github.com/user-attachments/assets/5f560162-09bd-4fd4-a218-82ebfe2d19db)
 
+💊 Assign Regular Cab|CrewMax Cab|Xtracab|Extended Cab|Access Cab|Double Cab to "Cab" in Body_type as those are all cabs body.
 
 ### 📌2. Data Visualization
 ☑️ Load data to Power BI Desktop
