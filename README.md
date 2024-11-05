@@ -24,7 +24,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
 
 ### 📌2. Data Visualization
-- Load data to Power BI Desktop
+☑️ Load data to Power BI Desktop
   
 **Takeaways:**
 💡
