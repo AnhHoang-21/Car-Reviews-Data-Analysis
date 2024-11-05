@@ -20,7 +20,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
    🔍 Values in the Review_Date column contain both date and time published reviews. Ex: on 02/02/17 19:53 PM (PST). The date values are in 24-hour format, so I don't keep PM or AM values.
 
-   🔍 In the Vehicle_Title 
+   🔍 In the Vehicle_Title colunn
    
    ![image](https://github.com/user-attachments/assets/b47b3093-a08c-441b-af82-5d8b94634086)
 
