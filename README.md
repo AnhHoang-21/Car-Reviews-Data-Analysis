@@ -22,6 +22,10 @@ This project focuses merely on Toyota review data. The original data has more th
 
 **🧬 Transformation**
 
+
+### 📌2. Data Visualization
+- Load data to Power BI Desktop
+
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
 - Sienna and Corrolla are 2 Toyota models that received more intense negative reviews (2 -2.5 ~ orange, brown) than others. 
