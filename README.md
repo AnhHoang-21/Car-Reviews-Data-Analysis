@@ -50,7 +50,9 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 💊 Assign Regular Cab|CrewMax Cab|Xtracab|Extended Cab|Access Cab|Double Cab to "Cab" in Body_type as those are all cabs body.
 
-💊 Apply filters (Ctrl+Shift+L) in Excel to identify issues( missing data and wrong values) in the 4 columns.
+💊 Use the if function to extract version information as it appears between Body type and number of doors.
+
+💊 Extract engine information that appears inside parentheses ()
 
 ### 📌2. Data Visualization
 ☑️ Load data to Power BI Desktop
