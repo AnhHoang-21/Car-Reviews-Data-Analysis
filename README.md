@@ -66,7 +66,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 **💡Takeaways:**
 * XYZ
 
-**📊3.2. 3D-Visualization**
+**🔮3.2. 3D-Visualization**
 
 
 **Key points from 3D Visualizations (Package: Plotly):**
