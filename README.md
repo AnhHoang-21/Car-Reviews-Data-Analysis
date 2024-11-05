@@ -1,6 +1,6 @@
 # Toyota Car Reviews Data Analysis
 
-🎯 The aim of this project is to extract insights from YouTube car reviews.
+🎯 The aim of this project is to extract insights from Edmund car reviews.
 
 
 The repository contains all related files in my portfolio.
