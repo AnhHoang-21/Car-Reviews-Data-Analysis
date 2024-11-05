@@ -52,7 +52,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 💊 Use the if function to extract version information as it appears between Body type and number of doors.
 
-💊 Extract engine information that appears inside parentheses ()
+💊 Use re.search () function to extract engine information that appears inside parentheses ()
 
 ### 📌2. Data Visualization
 ☑️ Load data to Power BI Desktop
