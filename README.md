@@ -68,6 +68,8 @@ customers.
 ➢ Each year, each car model has different major issues.
 
 ➢ The more popular a car is, the more likely it is to receive negative reviews.
+----------
+----------
 
 ### 📌3. Data Visualization
 
