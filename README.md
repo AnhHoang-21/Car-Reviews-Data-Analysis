@@ -54,7 +54,10 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 💊 Use re.search () function to extract engine information that appears inside parentheses ()
 
-### 📌2. Data Visualization
+
+### 📌2 SQL Queries for negative reviews
+
+### 📌3. Data Visualization
 ☑️ Load data to Power BI Desktop
   
 **💡Takeaways:**
