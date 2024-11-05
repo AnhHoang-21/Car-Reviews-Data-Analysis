@@ -39,6 +39,9 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
  💊 Change values in the Date column to Date format DD/MM/YY by selecting Data-> Text to column -> Date
 
 **🧬1.3 Transformation**
+ Iterate process
+ 
+ ![image](https://github.com/user-attachments/assets/5f560162-09bd-4fd4-a218-82ebfe2d19db)
 
 
 ### 📌2. Data Visualization
