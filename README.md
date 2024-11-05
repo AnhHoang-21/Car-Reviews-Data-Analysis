@@ -58,6 +58,8 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 ### 📌2. SQL Queries for negative reviews
 -> Using MySQL to run through 10 queries 
 
+**Takeaways:**
+
 ➢  Each car model has different prevalent complaints. For example: the Camry has a lot of complaints about interior quality, waranty and service complaints while the Tacoma has the most complaints about Transmission and Fuel Economy, AC & Heating.
 
 ➢ Warranty, service, and interior are the main factors causing frustration for
