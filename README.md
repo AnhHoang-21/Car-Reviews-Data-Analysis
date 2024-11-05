@@ -58,10 +58,16 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 ### 📌2 SQL Queries for negative reviews
 
 ### 📌3. Data Visualization
+
+**📊3.1 Visualize plots**
+
 ☑️ Load data to Power BI Desktop
   
 **💡Takeaways:**
 * XYZ
+
+**📊3.2 3D Visualization**
+
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
