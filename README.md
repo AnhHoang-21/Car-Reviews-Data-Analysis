@@ -41,11 +41,16 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 **🧬1.3 Transformation**
  
- -> Iterate the process to thoroughly extract the model, body type, version, and engine. The final data would look neat and tidy.
+ -> Iterate the process to thoroughly extract the model, body type, version, and engine. The final data would look neat and tidy. 
+ 
  
  ![image](https://github.com/user-attachments/assets/5f560162-09bd-4fd4-a218-82ebfe2d19db)
 
+  -> Apply filters in Excel to identify issues( missing data and wrong values) in the 4 columns
+
 💊 Assign Regular Cab|CrewMax Cab|Xtracab|Extended Cab|Access Cab|Double Cab to "Cab" in Body_type as those are all cabs body.
+
+💊 Apply filters in Excel to identify issues( missing data and wrong values) in the 4 columns
 
 ### 📌2. Data Visualization
 ☑️ Load data to Power BI Desktop
