@@ -10,7 +10,7 @@ This project focuses merely on Toyota review data. The original data has more th
 
 ## 📋Data Pipeline
 
-### 📌1. Data Preprocessing (Roughly 50-60% of workload)
+## 📌1. Data Preprocessing (Roughly 50-60% of workload)
 
 **🩺 1.1 Quick Data Diagnosis - Check for any issues with the original data by screening it with Excel.**
 
@@ -56,7 +56,7 @@ The values contain something like this: 2007 Toyota Avalon Sedan Limited 4dr Sed
 
 -----
 
-### 📌2. SQL Queries for negative reviews
+## 📌2. SQL Queries for negative reviews
 -> MySQL is used to run through 10 queries to find insights from negative reviews.
 
 **💡Takeaways:**
@@ -72,7 +72,7 @@ customers.
 
 ----------
 
-### 📌3. Data Visualization
+## 📌3. Data Visualization
 
 **📊3.1. Visualize plots**
 
@@ -82,10 +82,12 @@ customers.
 * XYZ
 
 **🔮3.2. 3D-Visualization**
+
+
 𖦏 Aim of using 3D data visualization is to identify [patterns, clusters and correlations(between attributes)] - **Insights**
 
-✮ when it comes to discrete values among dimensions, the more discrete values of each dimensions are more difficult to detect **Insights** 
--
+✮ When it comes to discrete values among dimensions, the more discrete values of each dimensions are more difficult to detect **Insights** 
+
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
