@@ -82,7 +82,8 @@ customers.
 * XYZ
 
 **🔮3.2. 3D-Visualization**
-
+𖦏 Aim of using 3D data visualization is to identify [patterns, clusters and correlations(between attributes)] - **Insights**
+✮ when it comes to discrete values among dimensions, the more discrete values of each dimensions are more difficult to detect **Insights**
 
 **Key points from 3D Visualizations (Package: Plotly):**
 - The majority of negative reviews range from 2.5 to 3.5.
